@@ -6,4 +6,4 @@ Website And Search Based On The Input Keywords And Saves To A Given Location<br>
 ### Get Images Associated With Given Keyword
 ### Customize The Image Format
 ### Cross-Platform
-<br> This Is A Module For My Currently Pending Project ##Cringy-Canvas 
+<br> This Is A Module For My Currently Pending Project **Cringy-Canvas**
